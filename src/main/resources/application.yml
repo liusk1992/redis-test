@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: redis-test
+  redis:
+    database: 1
+    host: 127.0.0.1
+    port: 6379
+    timeout: 3000
+
+server:
+  port: 9003
+
+
